@@ -10,6 +10,8 @@ sites:
     url: https://live.console.dgshare.com
   - name: 营销平台API
     url: https://api.dgshare.com
+  - name: 上海购物API
+    url: https://api.shopping-shanghai.com/api/v1/home/index
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
