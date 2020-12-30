@@ -1,6 +1,6 @@
 [
   {
-    "name": "营销平台账号中心",
+    "name": "营销平台账号中心后台",
     "url": "https://account.dgshare.com",
     "icon": "https://favicons.githubusercontent.com/account.dgshare.com",
     "slug": "",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1661,
-    "timeDay": 1661,
-    "timeWeek": 1661,
-    "timeMonth": 1661,
-    "timeYear": 1661,
+    "time": 1736,
+    "timeDay": 1736,
+    "timeWeek": 1736,
+    "timeMonth": 1736,
+    "timeYear": 1736,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1661,
-    "timeDay": 1661,
-    "timeWeek": 1661,
-    "timeMonth": 1661,
-    "timeYear": 1661,
+    "time": 1736,
+    "timeDay": 1736,
+    "timeWeek": 1736,
+    "timeMonth": 1736,
+    "timeYear": 1736,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1327,
-    "timeDay": 1327,
-    "timeWeek": 1327,
-    "timeMonth": 1327,
-    "timeYear": 1327,
+    "time": 1502,
+    "timeDay": 1502,
+    "timeWeek": 1502,
+    "timeMonth": 1502,
+    "timeYear": 1502,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1327,
-    "timeDay": 1327,
-    "timeWeek": 1327,
-    "timeMonth": 1327,
-    "timeYear": 1327,
+    "time": 1502,
+    "timeDay": 1502,
+    "timeWeek": 1502,
+    "timeMonth": 1502,
+    "timeYear": 1502,
     "dailyMinutesDown": {}
   }
 ]
