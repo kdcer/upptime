@@ -18,7 +18,7 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "云数享Uptime monitor"
+  introTitle: "云数享 upptime monitor"
   introMessage: "技术改变世界 我们征服技术"
   navbar:
     - title: Status
