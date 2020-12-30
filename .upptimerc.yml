@@ -2,6 +2,9 @@
 owner: kdcer # Your GitHub username
 repo: upptime # Your GitHub repository name
 
+assignees:
+  - amorist
+
 # Add your sites here
 sites:
   - name: 营销平台账号中心后台
