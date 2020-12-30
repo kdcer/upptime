@@ -4,7 +4,7 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: 营销平台账号中心
+  - name: 营销平台账号中心后台
     url: https://account.dgshare.com
   - name: 营销平台直播后台
     url: https://live.console.dgshare.com
