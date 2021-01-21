@@ -17,6 +17,8 @@ sites:
     url: https://api.shopping-shanghai.com/api/v1/home/index
   - name: 第一八佰伴楼层导览
     url: https://sum.kdcer.com/bbb-shopping/view/index.html?LevelId=1
+  - name: test
+    url:https://google.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
