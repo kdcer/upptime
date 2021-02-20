@@ -16,7 +16,7 @@ sites:
   - name: 上海购物API
     url: https://api.shopping-shanghai.com/api/v1/home/index
   - name: 第一八佰伴楼层导览
-    url: https://sum.kdcer.com/bbb-shopping/view/index.html?LevelId=1
+    url: https://c.kdcer.com/bbb_maps/view/index.html?LevelId=1
   - name: test
     url: https://google.com
 
