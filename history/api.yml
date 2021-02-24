@@ -1,7 +1,7 @@
-url: https://api.shopping-shanghai.com/api/v1/home/index
-status: down
-code: 502
-responseTime: 2319
-lastUpdated: 2021-02-24T16:50:57.875Z
+url: https://api.dgshare.com
+status: up
+code: 200
+responseTime: 1521
+lastUpdated: 2021-02-24T17:23:08.804Z
 startTime: Wed Dec 30 2020 02:22:56 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
