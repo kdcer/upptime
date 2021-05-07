@@ -4,18 +4,19 @@
     "url": "https://account.dgshare.com",
     "icon": "https://favicons.githubusercontent.com/account.dgshare.com",
     "slug": "",
-    "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.74%",
+    "status": "down",
+    "uptime": "99.72%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "99.70%",
+    "uptimeYear": "99.72%",
     "time": 2092,
     "timeDay": 1348,
-    "timeWeek": 1478,
+    "timeWeek": 1489,
     "timeMonth": 1473,
     "timeYear": 2092,
     "dailyMinutesDown": {
+      "2021-05-07": 1,
       "2021-05-02": 18,
       "2021-04-30": 9,
       "2021-04-28": 6,
@@ -23,7 +24,7 @@
       "2021-03-12": 0,
       "2021-03-11": 0,
       "2021-02-25": 174,
-      "2021-02-24": 302
+      "2021-02-24": 282
     }
   },
   {
@@ -31,18 +32,19 @@
     "url": "https://live.console.dgshare.com",
     "icon": "https://favicons.githubusercontent.com/live.console.dgshare.com",
     "slug": "",
-    "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.74%",
+    "status": "down",
+    "uptime": "99.72%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "99.70%",
+    "uptimeYear": "99.72%",
     "time": 2092,
     "timeDay": 1348,
-    "timeWeek": 1478,
+    "timeWeek": 1489,
     "timeMonth": 1473,
     "timeYear": 2092,
     "dailyMinutesDown": {
+      "2021-05-07": 1,
       "2021-05-02": 18,
       "2021-04-30": 9,
       "2021-04-28": 6,
@@ -50,7 +52,7 @@
       "2021-03-12": 0,
       "2021-03-11": 0,
       "2021-02-25": 174,
-      "2021-02-24": 302
+      "2021-02-24": 282
     }
   },
   {
@@ -58,18 +60,19 @@
     "url": "https://api.dgshare.com",
     "icon": "https://favicons.githubusercontent.com/api.dgshare.com",
     "slug": "api",
-    "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.74%",
+    "status": "down",
+    "uptime": "99.72%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "99.70%",
+    "uptimeYear": "99.72%",
     "time": 2067,
     "timeDay": 1080,
-    "timeWeek": 1589,
+    "timeWeek": 1615,
     "timeMonth": 1620,
     "timeYear": 2067,
     "dailyMinutesDown": {
+      "2021-05-07": 1,
       "2021-05-02": 18,
       "2021-04-30": 9,
       "2021-04-28": 6,
@@ -77,7 +80,7 @@
       "2021-03-12": 0,
       "2021-03-11": 0,
       "2021-02-25": 174,
-      "2021-02-24": 302
+      "2021-02-24": 282
     }
   },
   {
@@ -85,18 +88,19 @@
     "url": "https://api.shopping-shanghai.com/api/v1/home/index",
     "icon": "https://favicons.githubusercontent.com/api.shopping-shanghai.com",
     "slug": "api",
-    "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.74%",
+    "status": "down",
+    "uptime": "99.72%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "99.70%",
+    "uptimeYear": "99.72%",
     "time": 2067,
     "timeDay": 1080,
-    "timeWeek": 1589,
+    "timeWeek": 1615,
     "timeMonth": 1620,
     "timeYear": 2067,
     "dailyMinutesDown": {
+      "2021-05-07": 1,
       "2021-05-02": 18,
       "2021-04-30": 9,
       "2021-04-28": 6,
@@ -104,7 +108,7 @@
       "2021-03-12": 0,
       "2021-03-11": 0,
       "2021-02-25": 174,
-      "2021-02-24": 302
+      "2021-02-24": 282
     }
   },
   {
@@ -112,18 +116,19 @@
     "url": "https://c.kdcer.com/bbb_maps/view/index.html?LevelId=1",
     "icon": "https://favicons.githubusercontent.com/c.kdcer.com",
     "slug": "",
-    "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.74%",
+    "status": "down",
+    "uptime": "99.72%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "99.70%",
+    "uptimeYear": "99.72%",
     "time": 2092,
     "timeDay": 1348,
-    "timeWeek": 1478,
+    "timeWeek": 1489,
     "timeMonth": 1473,
     "timeYear": 2092,
     "dailyMinutesDown": {
+      "2021-05-07": 2,
       "2021-05-02": 18,
       "2021-04-30": 9,
       "2021-04-28": 6,
@@ -131,7 +136,7 @@
       "2021-03-12": 0,
       "2021-03-11": 0,
       "2021-02-25": 174,
-      "2021-02-24": 302
+      "2021-02-24": 282
     }
   },
   {
