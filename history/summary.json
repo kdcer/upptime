@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/account.dgshare.com",
     "slug": "",
     "status": "up",
-    "uptime": "99.68%",
+    "uptime": "99.69%",
     "uptimeDay": "99.99%",
     "uptimeWeek": "99.12%",
     "uptimeMonth": "99.26%",
-    "uptimeYear": "99.68%",
-    "time": 2076,
-    "timeDay": 1479,
-    "timeWeek": 1466,
-    "timeMonth": 1685,
-    "timeYear": 2076,
+    "uptimeYear": "99.69%",
+    "time": 2075,
+    "timeDay": 1342,
+    "timeWeek": 1438,
+    "timeMonth": 1676,
+    "timeYear": 2075,
     "dailyMinutesDown": {
       "2021-06-06": 0,
       "2021-06-04": 89,
@@ -34,7 +34,7 @@
       "2021-03-12": 0,
       "2021-03-11": 0,
       "2021-02-25": 174,
-      "2021-02-24": 159
+      "2021-02-24": 146
     }
   },
   {
@@ -43,16 +43,16 @@
     "icon": "https://favicons.githubusercontent.com/live.console.dgshare.com",
     "slug": "",
     "status": "up",
-    "uptime": "99.68%",
+    "uptime": "99.69%",
     "uptimeDay": "99.99%",
     "uptimeWeek": "99.12%",
     "uptimeMonth": "99.26%",
-    "uptimeYear": "99.68%",
-    "time": 2076,
-    "timeDay": 1479,
-    "timeWeek": 1466,
-    "timeMonth": 1685,
-    "timeYear": 2076,
+    "uptimeYear": "99.69%",
+    "time": 2075,
+    "timeDay": 1342,
+    "timeWeek": 1438,
+    "timeMonth": 1676,
+    "timeYear": 2075,
     "dailyMinutesDown": {
       "2021-06-06": 0,
       "2021-06-04": 89,
@@ -72,7 +72,7 @@
       "2021-03-12": 0,
       "2021-03-11": 0,
       "2021-02-25": 174,
-      "2021-02-24": 159
+      "2021-02-24": 146
     }
   },
   {
@@ -81,15 +81,15 @@
     "icon": "https://favicons.githubusercontent.com/api.dgshare.com",
     "slug": "api",
     "status": "up",
-    "uptime": "99.68%",
+    "uptime": "99.69%",
     "uptimeDay": "99.99%",
     "uptimeWeek": "99.12%",
     "uptimeMonth": "99.26%",
-    "uptimeYear": "99.68%",
+    "uptimeYear": "99.69%",
     "time": 2026,
-    "timeDay": 2023,
-    "timeWeek": 1722,
-    "timeMonth": 1635,
+    "timeDay": 1993,
+    "timeWeek": 1733,
+    "timeMonth": 1638,
     "timeYear": 2026,
     "dailyMinutesDown": {
       "2021-06-06": 0,
@@ -110,7 +110,7 @@
       "2021-03-12": 0,
       "2021-03-11": 0,
       "2021-02-25": 174,
-      "2021-02-24": 159
+      "2021-02-24": 146
     }
   },
   {
@@ -119,15 +119,15 @@
     "icon": "https://favicons.githubusercontent.com/api.shopping-shanghai.com",
     "slug": "api",
     "status": "up",
-    "uptime": "99.68%",
+    "uptime": "99.69%",
     "uptimeDay": "99.99%",
     "uptimeWeek": "99.12%",
     "uptimeMonth": "99.26%",
-    "uptimeYear": "99.68%",
+    "uptimeYear": "99.69%",
     "time": 2026,
-    "timeDay": 2023,
-    "timeWeek": 1722,
-    "timeMonth": 1635,
+    "timeDay": 1993,
+    "timeWeek": 1733,
+    "timeMonth": 1638,
     "timeYear": 2026,
     "dailyMinutesDown": {
       "2021-06-06": 0,
@@ -148,7 +148,7 @@
       "2021-03-12": 0,
       "2021-03-11": 0,
       "2021-02-25": 174,
-      "2021-02-24": 159
+      "2021-02-24": 146
     }
   },
   {
@@ -157,16 +157,16 @@
     "icon": "https://favicons.githubusercontent.com/c.kdcer.com",
     "slug": "",
     "status": "up",
-    "uptime": "99.68%",
+    "uptime": "99.69%",
     "uptimeDay": "99.99%",
     "uptimeWeek": "99.12%",
     "uptimeMonth": "99.26%",
-    "uptimeYear": "99.68%",
-    "time": 2076,
-    "timeDay": 1479,
-    "timeWeek": 1466,
-    "timeMonth": 1685,
-    "timeYear": 2076,
+    "uptimeYear": "99.69%",
+    "time": 2075,
+    "timeDay": 1342,
+    "timeWeek": 1438,
+    "timeMonth": 1676,
+    "timeYear": 2075,
     "dailyMinutesDown": {
       "2021-06-06": 0,
       "2021-06-04": 89,
@@ -186,7 +186,7 @@
       "2021-03-12": 0,
       "2021-03-11": 0,
       "2021-02-25": 174,
-      "2021-02-24": 159
+      "2021-02-24": 146
     }
   },
   {
